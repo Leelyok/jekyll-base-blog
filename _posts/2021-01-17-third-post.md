@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: My third post
 author: Max Epicure
 categories: [travel, selfcare]
